@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import MapComponent from "./MapComponent";
-import TechDescripComponent from "./TechDescripComponent";
+import MapComponent from "./components/MapComponent";
+import TechDescripComponent from "./components/TechDescripComponent";
 
 function App() {
   return (
